@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class BirthdayProgram {
 
+//ADDING MY NAME AS A COMMENT
+
 	static Scanner scanner = new Scanner(System.in);
 
 	/**
